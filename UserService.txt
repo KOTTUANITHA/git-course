@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-This is for user service
-=======
 This is for user service
 
 "data"
->>>>>>> feature1
+"login and log out"

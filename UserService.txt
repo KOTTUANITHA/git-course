@@ -1,5 +1,5 @@
 This is for the user service
->>>>>>> 55c0a49a652e7c6e9b1cf46720a35129b1274a25
+
 
 "data"
 "login and log out"

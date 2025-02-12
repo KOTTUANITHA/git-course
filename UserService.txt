@@ -1,4 +1,4 @@
-This is for user service
+This is for the user service
 
 "data"
 "login and log out"

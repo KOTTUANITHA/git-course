@@ -1,4 +1,7 @@
-This is for the user service
+
+This is for the user services
+
+>>>>>>> ffef3357bc6ce9a4548213ce55cde0fed605fc16
 
 "data"
 "login and log out"

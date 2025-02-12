@@ -1,1 +1,3 @@
 create or delete users
+manage databse
+display users
